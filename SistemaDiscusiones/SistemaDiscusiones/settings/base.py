@@ -40,7 +40,7 @@ ROOT_URLCONF = 'SistemaDiscusiones.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR.child('templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -80,7 +80,3 @@ USE_I18N = True
 USE_L10N = True
 
 USE_TZ = True
-
-TEMPLATE_DIR = [BASE_DIR.child('templates')]
-
-print (TEMPLATE_DIR)
