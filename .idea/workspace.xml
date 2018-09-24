@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5d5a82a-3e1d-47c0-b0e0-74f36b7c05cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SistemaDiscusiones/SistemaDiscusiones/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/SistemaDiscusiones/SistemaDiscusiones/settings/base.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,18 +53,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/apps/home/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <element signature="e#642#670#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/apps/home/views.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,8 +68,44 @@
       <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/SistemaDiscusiones/settings/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-331">
-              <caret line="42" column="44" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="44" />
+            <state relative-caret-position="134">
+              <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/apps/users/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/apps/users/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/apps/users/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -95,17 +116,8 @@
       <file leaf-file-name="local.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/SistemaDiscusiones/settings/local.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
+            <state relative-caret-position="380">
               <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -122,15 +134,10 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-160">
+            <state relative-caret-position="57">
               <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/static/css/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -156,7 +163,6 @@
         <option value="$PROJECT_DIR$/SistemaDiscusiones/apps/home/urls.py" />
         <option value="$PROJECT_DIR$/SistemaDiscusiones/templates/__init__.py" />
         <option value="$PROJECT_DIR$/SistemaDiscusiones/templates/home/__init__.py" />
-        <option value="$PROJECT_DIR$/SistemaDiscusiones/SistemaDiscusiones/settings/base.py" />
         <option value="$PROJECT_DIR$/SistemaDiscusiones/apps/home/views.py" />
         <option value="$PROJECT_DIR$/SistemaDiscusiones/templates/home/index.html" />
         <option value="$PROJECT_DIR$/SistemaDiscusiones/static/js/js.js" />
@@ -164,6 +170,11 @@
         <option value="$PROJECT_DIR$/SistemaDiscusiones/SistemaDiscusiones/settings/local.py" />
         <option value="$PROJECT_DIR$/SistemaDiscusiones/static/css/style.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/SistemaDiscusiones/SistemaDiscusiones/settings/base.py" />
+        <option value="$PROJECT_DIR$/SistemaDiscusiones/apps/users/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/SistemaDiscusiones/apps/users/models.py" />
+        <option value="$PROJECT_DIR$/SistemaDiscusiones/apps/users/forms.py" />
+        <option value="$PROJECT_DIR$/SistemaDiscusiones/apps/users/admin.py" />
       </list>
     </option>
   </component>
@@ -193,6 +204,32 @@
             <path>
               <item name="Django" type="b2602c69:ProjectViewProjectNode" />
               <item name="Django" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+              <item name="SistemaDiscusiones" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+              <item name="SistemaDiscusiones" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+              <item name="SistemaDiscusiones" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django" type="462c0819:PsiDirectoryNode" />
+              <item name="SistemaDiscusiones" type="462c0819:PsiDirectoryNode" />
+              <item name="apps" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -268,14 +305,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1599" y="0" width="1602" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Python Console" order="3" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.501933" side_tool="true" visible="true" weight="0.57180154" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.49806702" visible="true" weight="0.57180154" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.48840207" side_tool="true" visible="true" weight="0.50391644" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="4" sideWeight="0.51159793" visible="true" weight="0.50391644" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24613403" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
@@ -397,6 +435,16 @@
     <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/static/css/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/templates/home/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -404,23 +452,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/SistemaDiscusiones/settings/base.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331">
-          <caret line="42" column="44" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/static/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-160">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        <state relative-caret-position="38">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -436,15 +471,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/SistemaDiscusiones/settings/local.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
+        <state relative-caret-position="380">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$USER_HOME$/practicas/django/DjangoAvanzado/lib/python3.5/site-packages/django/apps/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        <state relative-caret-position="237">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/practicas/django/DjangoAvanzado/lib/python3.5/site-packages/django/utils/autoreload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/practicas/django/DjangoAvanzado/lib/python3.5/site-packages/django/db/models/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/SistemaDiscusiones/settings/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/apps/users/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/apps/users/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/apps/users/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SistemaDiscusiones/apps/users/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
