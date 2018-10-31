@@ -39,7 +39,8 @@ DJANGO_APPS = [
 
 # app de terceros
 THIRD_PARTY_APPS = [
-
+    'django_adminlte',
+    'django_adminlte_theme',
 ]
 
 # app locales
